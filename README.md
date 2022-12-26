@@ -105,5 +105,5 @@ spring.mvc.view.suffix: .jsp
 # kết bài 
 Trong bài viết này, chúng ta đã học cách tạo 1 project spring boot - jsp
 
-tất cả các mẫu mã hiển thị trong bài viết đều có sẵn [trên github](https://github.com/thangdtph27626/HelloWordWithSpringBootJPA)
+tất cả các mẫu mã hiển thị trong bài viết đều có sẵn [trên github](https://github.com/thangdtph27626/HelloWordWithSpringBootJPA.github.io)
 
