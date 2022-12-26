@@ -47,6 +47,11 @@ Thực hiện dependency để chạy dự án
         <groupId>javax.servlet</groupId>
         <artifactId>jstl</artifactId>
     </dependency>
+<dependency>
+            <groupId>javax.servlet.jsp.jstl</groupId>
+            <artifactId>jstl-api</artifactId>
+            <version>1.2</version>
+        </dependency>
 
 ```
 
